@@ -1,0 +1,1 @@
+This repository contains a C program for an Electronic Voting Machine (EVM). It allows users to cast votes for multiple candidates, securely count the votes, and display the final results. The project demonstrates the use of C programming concepts like arrays, functions, and control structures to simulate a real-world voting process.
